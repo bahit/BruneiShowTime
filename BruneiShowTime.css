@@ -1,0 +1,27 @@
+/* CSS declarations go here */
+.gold {
+  color: gold;
+}
+.top-bar {
+  background: #06af88;
+}
+
+.panel {
+  background: #06af88;
+}
+
+.panel a {
+  color: #027d66;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.green {
+  color: #06af88;
+}
+
+h4 {
+  color: #00AF88;
+}
